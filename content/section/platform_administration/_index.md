@@ -1,5 +1,5 @@
 ---
-title: "Platform management"
+title: "Platform administration"
 icon: "c8y-icon c8y-icon-administration"
 weight: 20
 svg: '<svg
@@ -186,4 +186,4 @@ svg: '<svg
 '
 ---
 
-Find detailed information on the the administration of {{< standard-tenant >}}s and {{< enterprise-tenant >}}s, and on platform configuration and authentication settings.  
+Find detailed information on the the administration of {{< standard-tenant >}}s and {{< enterprise-tenant >}}s, and on configuring various authentication settings.  

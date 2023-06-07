@@ -5,7 +5,7 @@ type: root
 layout: redirect
 bundle: data-broker
 section:
-  - app_development
+  - platform_administration
 weight: 60
 ---
 

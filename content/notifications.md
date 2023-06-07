@@ -5,7 +5,7 @@ type: root
 layout: redirect
 bundle: notifications
 section:
-  - platform_administration
+  - app_development
 weight: 80
 
 ---
